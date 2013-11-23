@@ -28,14 +28,14 @@ Instalação
  - Certifique-se de que não a instalações de outros módulos para o AmigoSeguro em seu sistema;
  - Baixe o repositario como arquivo zip ou faça um clone;
  - Copie as pastas *admin* e *catalog* para dentro de sua instalação OpenCart. Caso seja informado da sobrescrita de alguns arquivos, você pode confirmar o procedimento sem problemas. Esta instalação não afetara nenhum arquivo do seu sistema, somente adicionara os arquivos do módulo AmigoSeguro;
- - Certifique-se de que as permissÃµes das pastas e arquivos recÃ©m copiados sejam, respectivamente, definidas como 755 e 644;
+ - Certifique-se de que as permissões das pastas e arquivos recém copiados sejam, respectivamente, definidas como 755 e 644;
  - Na Area administrativa do seu sistema, acesse o menu Extensions -> Pagamentos -> AmigoSeguro -> Install.
 
 
 Configuração
 ------------
 ---
-Para acessar e configurar o módulo acesse o menu Extensions -> Pagamentos -> AmigoSeguro -> Edit. As opções disponÃ­veis estão descritas abaixo.
+Para acessar e configurar o módulo acesse o menu Extensions -> Pagamentos -> AmigoSeguro -> Edit. As opções disponi­veis estão descritas abaixo.
 
  - **ativar módulo**: ativa/desativa o módulo.
  - **ordem de exibição**: define a ordem em que o AmigoSeguro vai aparecer no checkout de sua loja.
