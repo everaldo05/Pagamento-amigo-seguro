@@ -22,7 +22,7 @@ Requisitos
  - [DOM]
 
 
-InstalaÃ§Ã£o
+Instalação
 ----------
 ---
  - Certifique-se de que não a instalações de outros módulos para o AmigoSeguro em seu sistema;
@@ -56,7 +56,7 @@ Changelog
  - Versão inicial. Integração com API de checkout e API de notificações.
 
 
-LicenÃ§a
+Licença
 -------
 ---
 Copyright 2013 AmigoSeguro Internet LTDA.
@@ -83,7 +83,7 @@ Notas
 Em caso de duvidas mande um e-mail para desenvolvedores@amigoseguro.com
 
 
-ContribuiÃ§Ãµes
+Contribuições
 -------------
 ---
 Achou e corrigiu um bug ou tem alguma feature em mente e deseja contribuir?
