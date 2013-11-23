@@ -32,12 +32,12 @@ InstalaÃ§Ã£o
  - Na Area administrativa do seu sistema, acesse o menu Extensions -> Pagamentos -> AmigoSeguro -> Install.
 
 
-ConfiguraÃ§Ã£o
+Configuração
 ------------
 ---
-Para acessar e configurar o módulo acesse o menu Extensions -> Pagamentos -> AmigoSeguro -> Edit. As opções disponÃ­veis estÃ£o descritas abaixo.
+Para acessar e configurar o módulo acesse o menu Extensions -> Pagamentos -> AmigoSeguro -> Edit. As opções disponÃ­veis estão descritas abaixo.
 
- - **ativar mÃ³dulo**: ativa/desativa o mÃ³dulo.
+ - **ativar módulo**: ativa/desativa o módulo.
  - **ordem de exibição**: define a ordem em que o AmigoSeguro vai aparecer no checkout de sua loja.
  - **e-mail**: e-mail cadastrado no AmigoSeguro.
  - **token**: token gerado no AmigoSeguro.
@@ -53,7 +53,7 @@ Changelog
 ---
 1.0
 
- - Versão inicial. Integração com API de checkout e API de notificaÃ§Ãµes.
+ - Versão inicial. Integração com API de checkout e API de notificações.
 
 
 LicenÃ§a
